@@ -15,3 +15,4 @@ gGoals and tasks to complete for the app:
  -the screen should blink red( and the phone camera light should blink also)
  - there should also be a timer option so that you can pic a set time
  - make it compatible for both android and IOS
+
